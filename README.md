@@ -1,6 +1,6 @@
 # Todoey-Realm-SwipeCellKit-Chameleon
 
-Todoey is an app which users can create to do group and add new items in the group they created. They can also delete their items and groups and add tick to their items. I benefited from Realm to save the data. Hence, when the users close the app, their groups and items will not be deleted. They can access these items and groups as soon as they open the app. Also, I benefited from SwipeCellKit and Chameleon 3rd party libraries to add delete function with sliding animation to table cell and customise the color of the app respectively. The users can see different colors each time they open the app.
+Todoey is an app which users can create to do group and add new items in the group they created. They can also delete their items and groups and add tick to their items. I used CocoaPods to download 3rd party libraries and benefited from Realm to save the data. Hence, when the users close the app, their groups and items will not be deleted. They can access these items and groups as soon as they open the app. Also, I benefited from SwipeCellKit and Chameleon 3rd party libraries to add delete function with sliding animation to table cell and customise the color of the app respectively. The users can see different colors each time they open the app.
 
 
 https://user-images.githubusercontent.com/92036779/194840846-c47a4936-1ed8-4b8d-b04d-c55e83f47362.mp4
