@@ -1,6 +1,6 @@
 # Todoey-Realm-SwipeCellKit-Chameleon
 
-
+Todoey is an app which users can form to do group and add new item in the group they created. They can also delete and add tick to their items.
 
 
 https://user-images.githubusercontent.com/92036779/194840846-c47a4936-1ed8-4b8d-b04d-c55e83f47362.mp4
